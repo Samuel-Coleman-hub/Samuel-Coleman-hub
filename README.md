@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Sam.
+
+I'm a final year BSc Computer Science student at Newcastle University, predicted a first class degree.
+
+I enjoy coding in C#, Java & JavaScript (& Vue JS)!
+
+You can also find me on [Linkedin](https://www.linkedin.com/in/samuel-coleman-09412b1bb/)
+
 <!--
 **Samuel-Coleman-hub/Samuel-Coleman-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
