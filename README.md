@@ -2,7 +2,7 @@
 
 I'm Sam.
 
-I'm a final year BSc Computer Science student at Newcastle University, predicted a first class degree.
+I'm a First Class BSc Computer Science Graduate, living and studying in Japan.
 
 I enjoy coding in C#, Java & JavaScript (& Vue JS)!
 
